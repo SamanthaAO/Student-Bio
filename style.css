@@ -2,7 +2,7 @@ h1 {
     text-align: center;
     color: #eee;
     font-size: "28px";
-    background: #333333;
+    background-color: #333333;
     Margin: 0;
     Padding: .5em;
     width: 1024px;
@@ -20,7 +20,7 @@ h2 {
 }
 
 body {
-    background: #efeee7;
+    background-color: #efeee7;
     font: Georgia, "times neew roman", Times, serif;
     color: #333333;
     margin: "0";
@@ -30,6 +30,8 @@ body {
     width: 200px;
     margin: 1em 2em 2em 2em;
 }
+
+img {width: 200px;}
 
  #main-bio{
     width: 40%;
